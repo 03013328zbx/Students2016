@@ -4,8 +4,11 @@
 
 [![Gitter](https://badges.gitter.im/Py03013052/Students2016.svg)](https://gitter.im/Py03013052/Students2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-P4£º  Ó¢ÎÄIT×ÊÔ´ÔÄ¶ÁÊµ¼ù£º·­ÒëGuttag, John½Ì³ÌÖĞµÄ6.2.3ºÍ6.2.4  £¨ ¿ÉÑ¡£©
+P4ï¿½ï¿½  Ó¢ï¿½ï¿½ITï¿½ï¿½Ô´ï¿½Ä¶ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Guttag, Johnï¿½Ì³ï¿½ï¿½Ğµï¿½6.2.3ï¿½ï¿½6.2.4  ï¿½ï¿½ ï¿½ï¿½Ñ¡ï¿½ï¿½
+[![Gitter](https://badges.gitter.im/Py03013052/Students2016.svg)](https://gitter.im/Py03013052/Students2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+P4ï¼š  è‹±æ–‡ITèµ„æºé˜…è¯»å®è·µï¼šç¿»è¯‘Guttag, Johnæ•™ç¨‹ä¸­çš„6.2.3å’Œ6.2.4  ï¼ˆ å¯é€‰ï¼‰
   
-	03013305  Ê¯î£    03013304  »ÆâùæÃ     03013324 Àî³¿¹â
+	03013305  Ê¯ï¿½    03013304  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½     03013324 ï¿½î³¿ï¿½ï¿½
 	
-	03013409  ·¶ÓÀÑ§ 
+	03013409  ï¿½ï¿½ï¿½ï¿½Ñ§ 

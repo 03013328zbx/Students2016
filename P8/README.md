@@ -2,5 +2,7 @@
   
 # Students-2016
 
-P8£º 3¸ö×¨ÒµÏà¹ØÎÊÌâµÄÇó½â¡¢´úÂë¹æ·¶¡¢Èí¼ş²âÊÔ¡¢ÈÎÎñ¹ÜÀí¡¢½»»¥¼ÆËã¼°ÎÄµµ×«Ğ´µÈ  
+[![Gitter](https://badges.gitter.im/Py03013052/Students2016.svg)](https://gitter.im/Py03013052/Students2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+P8ï¼š 3-5 ä¸ªä¸“ä¸šç›¸å…³é—®é¢˜çš„æ±‚è§£ã€ä»£ç è§„èŒƒã€è½¯ä»¶æµ‹è¯•ã€ä»»åŠ¡ç®¡ç†ã€äº¤äº’è®¡ç®—åŠæ–‡æ¡£æ’°å†™ç­‰  
       

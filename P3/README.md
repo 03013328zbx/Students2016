@@ -4,25 +4,33 @@
 
 [![Gitter](https://badges.gitter.im/Py03013052/Students2016.svg)](https://gitter.im/Py03013052/Students2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-P3£º °æ±¾¹ÜÀí¼°ÉçÇø±à³Ì2£ºGit¡¢Github¡¢EGitµÈ 
+P3ï¼š ç‰ˆæœ¬ç®¡ç†åŠç¤¾åŒºç¼–ç¨‹2ï¼šGitã€Githubã€EGitç­‰ 
+
+	03013324  ææ™¨å…‰      03013307   éŸ¦ä½³èŠ
+	
+	03013429  é»„é©°æ™¨      03013433 æ›¾æŸ¯æº   03013421 å¾åª›åª›    03013409   èŒƒæ°¸å­¦       03013401 å¼ é¦¨äº‘
+
+Ref: 
+	
+1. Maximilian Koegel,Jonas Helming. EGit Toturial http://eclipsesource.com/blogs/tutorials/egit-tutorial/. 2015.02
 
 <<<<<<< HEAD
-	03013324  Àî³¿¹â
+	03013324  ï¿½î³¿ï¿½ï¿½
 	
-	03013429  »Æ³Û³¿      03013433 Ôø¿ÂÔ´
+	03013429  ï¿½Æ³Û³ï¿½      03013433 ï¿½ï¿½ï¿½ï¿½Ô´
 =======
-	03013324  Àî³¿¹â   03013307 Î¤¼Ñ¾Õ
+	03013324  ï¿½î³¿ï¿½ï¿½   03013307 Î¤ï¿½Ñ¾ï¿½
 	
-	03013429  »Æ³Û³¿      03013433 Ôø¿ÂÔ´   03013421 ĞìæÂæÂ    03013409   ·¶ÓÀÑ§       03013401 ÕÅÜ°ÔÆ
+	03013429  ï¿½Æ³Û³ï¿½      03013433 ï¿½ï¿½ï¿½ï¿½Ô´   03013421 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½    03013409   ï¿½ï¿½ï¿½ï¿½Ñ§       03013401 ï¿½ï¿½Ü°ï¿½ï¿½
 >>>>>>> refs/heads/dev
 
 Ref: 
 	
 1. Maximilian Koegel,Jonas Helming. EGit Toturial http://eclipsesource.com/blogs/tutorials/egit-tutorial/. 2015.02
 
-2. Öªºõ£ºÔõÑùÊ¹ÓÃGitHub. http://www.zhihu.com/question/20070065
+2. Öªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½GitHub. http://www.zhihu.com/question/20070065
 
-3. EclipseÁª»ú°ïÖú£ºHelp->Help Contents->EGit Documentation
+3. Eclipseï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Help->Help Contents->EGit Documentation
 
   
 

@@ -2,5 +2,8 @@
   
 # Students-2016
 
-P6£º Êı¾İ·ÖÎö£ºÍ³¼Æ¡¢»Ø¹é¼°¿ÉÊÓ»¯  
+[![Gitter](https://badges.gitter.im/Py03013052/Students2016.svg)](https://gitter.im/Py03013052/Students2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+
+P6ï¼š æ•°æ®åˆ†æï¼šç»Ÿè®¡ã€å›å½’åŠå¯è§†åŒ–
       

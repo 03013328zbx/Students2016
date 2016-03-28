@@ -2,4 +2,7 @@
   
 # Students-2016
 
-P5£ºÍøÂç×ÊÔ´Ê¹ÓÃÊµ¼ù£ºÊ¹ÓÃStackoverflow.com  £¨** ¿ÉÑ¡ **£© 
+P5ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ê¹ï¿½ï¿½Êµï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½Stackoverflow.com  ï¿½ï¿½** ï¿½ï¿½Ñ¡ **ï¿½ï¿½ 
+[![Gitter](https://badges.gitter.im/Py03013052/Students2016.svg)](https://gitter.im/Py03013052/Students2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+P5ï¼šç½‘ç»œèµ„æºä½¿ç”¨å®è·µï¼šä½¿ç”¨Stackoverflow.com ï¼ˆ å¯é€‰ï¼‰ 
